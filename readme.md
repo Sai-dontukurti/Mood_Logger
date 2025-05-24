@@ -18,13 +18,13 @@ This app records mood entries in a Google Sheet and visualizes them with a live-
 
 ## 📸 Demo Walkthrough
 
-[Loom Video Walkthrough](https://your-loom-link-here.com)
+[Loom Video Walkthrough](https://www.loom.com/share/c9bf4a59ca0c48f49bba45546d6bdd20?sid=d61dbf7a-0cf0-4732-86bd-4dd499585457)
 
 ---
 
 ## 📊 Live Sheet (View-Only Access)
 
-[Google Sheet Link (view only)](https://your-google-sheet-view-link.com)
+[Google Sheet Link (view only)] (https://docs.google.com/spreadsheets/d/1RYGsNvAhch19OHtB8lJXQLO3_Y2kXElG53AzIU7SYmI/edit?usp=sharing)
 
 ---
 
